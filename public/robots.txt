@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /.vercel/
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://bybakari-tqmenal6p-lionelsidunas-projects.vercel.app/sitemap.xml
